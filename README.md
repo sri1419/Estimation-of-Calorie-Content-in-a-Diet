@@ -1,0 +1,2 @@
+# Estimation-of-Calorie-Content-in-a-Diet
+In this proposed model convolutional neural network (CNN) is used to detect the food item and when the food item is recognized, the volume is computed by approximating the geometric shape like sphere, cylinder, etc. The model is trained using the Support Vector Machine model in which 94% accuracy is obtained in the classification of the food items. Once the volume is computed, the mass of the food item is computed using standard density tables.
